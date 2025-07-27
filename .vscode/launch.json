@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddWithoutPlusInput",
+            "request": "launch",
+            "mainClass": "AddWithoutPlusInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperatorsInput",
+            "request": "launch",
+            "mainClass": "BitwiseOperatorsInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "IncDecOperators",
+            "request": "launch",
+            "mainClass": "IncDecOperators",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "LargestOfTwoInput",
+            "request": "launch",
+            "mainClass": "LargestOfTwoInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "LogicalOperatorsInput",
+            "request": "launch",
+            "mainClass": "LogicalOperatorsInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "MultiplyByTwoInput",
+            "request": "launch",
+            "mainClass": "MultiplyByTwoInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "OnesComplementInput",
+            "request": "launch",
+            "mainClass": "OnesComplementInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "SwapBitwiseInput",
+            "request": "launch",
+            "mainClass": "SwapBitwiseInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "SwapWithTempInput",
+            "request": "launch",
+            "mainClass": "SwapWithTempInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "SwapWithoutTempInput",
+            "request": "launch",
+            "mainClass": "SwapWithoutTempInput",
+            "projectName": "Test-project-2_47f509dd"
+        },
+        {
+            "type": "java",
+            "name": "arithematicoperations",
+            "request": "launch",
+            "mainClass": "arithematicoperations",
+            "projectName": "Test-project-2_47f509dd"
+        }
+    ]
+}
