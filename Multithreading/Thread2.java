@@ -25,7 +25,7 @@ class ColorTask implements Runnable {
     }
 }
 
-public class ColourDisplay {
+public class Thread2 {
     public static void main(String[] args) {
         Thread colourThread = new Thread(new ColorTask());
         colourThread.start();
