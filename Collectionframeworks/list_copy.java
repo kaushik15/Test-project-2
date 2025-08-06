@@ -15,11 +15,11 @@ public class list_copy {
 
 
         List<String> list2 = new ArrayList<>();
-        list2.add("AFTAB");
-        list2.add("Abdul Sir");
-        list2.add("Haroon sir");
-        list2.add("latef sir");
-        list2.add("Shafi sir");
+        list2.add("A");
+        list2.add("b");
+        list2.add("c");
+        list2.add("d");
+        list2.add("e");
 
         Collections.copy(list1,list2);
         System.out.println(list1);
